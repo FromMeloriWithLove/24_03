@@ -221,7 +221,7 @@ class Student
 
 	Date* StartYear;
 	Address* address;
-	Group group;
+	Group* group;
 	string university = "IT Step";
 	string email = "alex@proton.me";
 	string phone_numbers[3] = { "+380630300035", "+380501234567" };
